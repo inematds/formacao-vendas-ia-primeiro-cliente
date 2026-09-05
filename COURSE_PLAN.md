@@ -87,6 +87,6 @@ Público: quem já sabe montar automações e agentes com IA, mas ainda não con
 ## Decisões editoriais
 
 - Valores monetários são mantidos em dólar como referência de mercado maduro, sempre com a nota "adapte ao seu mercado".
-- Empresas e setores citados são genéricos e anonimizados (clínica odontológica, empresa de reformas, transportadora).
+- Empresas e setores citados são exemplos genéricos (clínica odontológica, empresa de reformas, transportadora).
 - Ferramentas são descritas por função (busca por mapas, planilha, gateway de pagamento, ferramenta de automação), sem indicação de marca.
 - Cada módulo traz pelo menos um exemplo copy-run com objetivo, bloco copiável e critério de verificação.
